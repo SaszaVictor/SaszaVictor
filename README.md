@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SaszaVictor
-- 👀 I’m interested in technology, photography, business, economics and soon (I hope) coding!
+- 👋 Hi, I’m @AleksanderVictorAssad
+- 👀 I’m interested in technology, photography, business, economics and coding!
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
 IG: victor.as_
